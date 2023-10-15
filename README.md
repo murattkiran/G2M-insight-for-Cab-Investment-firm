@@ -14,4 +14,3 @@ The project involves four distinct datasets, covering two taxi companies over a 
 
 4. **City.csv**: This dataset provides a list of US cities, along with their populations and the number of cab users.
 
-5. **city_coordinates.csv**: A supplementary file containing coordinates for cities mentioned in the City.csv dataset.
